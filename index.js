@@ -1,7 +1,7 @@
-var name = "Susan"
-var height = "70"
+var name = "Susan";
+var height = "70";
 
-var index = require("./index.js")
+var index = require("./index.js");
 
 
 
