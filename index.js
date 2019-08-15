@@ -1,10 +1,12 @@
-var name = "Susan";
+var name = "Joe";
 var height = "70";
 
 var index = require("./index.js");
 
 if (name === "Susan"){
-  console.log("The name is correct")
+  console.log("The name is correct")[
+    else]
+  else
   
 }
 
